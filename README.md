@@ -1,3 +1,5 @@
+![logo](![Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)](https://github.com/user-attachments/assets/4c276086-a73e-4618-b867-87d9a78e5158)
+.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm afzal</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
